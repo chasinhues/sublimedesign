@@ -17,8 +17,8 @@ body {
 }
 
 #section1,#section2,#section3,#section4,#section5 {
-    padding-top:50px;
-    min-height:100vh;
+    padding:50px 0;
+    /*min-height:100vh;*/
     color: #1e1e1e;
     border-bottom: 1px solid #e2e2e2;
 }
